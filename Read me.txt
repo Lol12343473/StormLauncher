@@ -1,5 +1,7 @@
-StormFn
+-- Removed virus
 need python 3.11
 
 
 Run the install.bat then run stormfn.py <3
+
+
