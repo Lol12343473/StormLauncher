@@ -1,2 +1,3 @@
 # StormLauncher
-Fortnite Launcher For Free Skins
+
+Just launches fortnite, without a virus.
